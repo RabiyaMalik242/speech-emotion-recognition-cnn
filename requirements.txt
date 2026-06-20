@@ -1,0 +1,14 @@
+tensorflow
+keras
+librosa
+numpy
+matplotlib
+seaborn
+scikit-learn
+gradio
+soundfile
+audioread
+pandas
+ipykernel
+notebook
+pickle-mixin
