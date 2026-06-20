@@ -123,7 +123,3 @@ The notebook includes a real-time Gradio interface at the end. After running the
 **Rabiya**
 BS Software Engineering — AI/ML Internship Project
 
-
-
-
-## 🧠 Model Architecture
