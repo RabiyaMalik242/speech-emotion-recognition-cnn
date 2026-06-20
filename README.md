@@ -120,6 +120,6 @@ The notebook includes a real-time Gradio interface at the end. After running the
 ---
 
 ## 👩‍💻 Author
-**Rabiya**
+**Rabiya Malik**
 BS Software Engineering — AI/ML Internship Project
 
