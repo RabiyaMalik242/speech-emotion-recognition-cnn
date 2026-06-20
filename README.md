@@ -70,7 +70,7 @@ cd speech-emotion-recognition
 
 ### 2. Install dependencies
 ```bash
-pip install tensorflow librosa scikit-learn gradio matplotlib seaborn numpy pandas
+pip install -r requirements.txt
 ```
 
 ### 3. Download the RAVDESS dataset
